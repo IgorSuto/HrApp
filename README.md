@@ -1,1 +1,3 @@
 # HrApp
+
+Technologies: DjangoRestFramework & Typescript
